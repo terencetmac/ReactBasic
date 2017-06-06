@@ -1,0 +1,32 @@
+{
+  "name": "react-basic-repo",
+  "version": "0.1.0",
+  "description": "A starter app repo for React Basic, with the minimum number of dependencies to get React up and running. See accompanying article for detailed walkthrough linked in README.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "react",
+    "basic",
+    "react-dom",
+    "webpack"
+  ],
+  "url": "https://github.com/terencetmac/ReactBasic",
+  "email": "terencetmac@gmail.com",
+  "author": "Terence Tham (terencetmac@gmail.com, terence.xyz)",
+  "license": "SEE LICENSE IN README",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}

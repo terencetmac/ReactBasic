@@ -1,0 +1,25 @@
+### node etc ###
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Generated Files
+.git
+.*swp
+.DS_Store
+._*
+npm-debug.log
+
+# Compiled Dirs (http://nodejs.org/api/addons.html)
+dist/
+!dist/index.html
+
+# Dependency directorys
+node_modules/
+bower_components/
