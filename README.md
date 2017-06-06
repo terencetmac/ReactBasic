@@ -2,7 +2,7 @@
 
 This project is the accompanying Repo for an article detailing how to set up a basic React Application with the minimum dependencies required and the motivation behind each dependency.
 
-Link to Article published 6 June 2017:
+Link to Article published 6 June 2017: http://terence.xyz/get-started-with-react-in-2017-walk-through/
 
 ## Using this Repo as a Starter Application ##
 
